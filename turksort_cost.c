@@ -35,7 +35,7 @@ static void	calc_costs_r(t_pushswap *ps)
 	}
 }
 
-static void calc_costs_rr(t_pushswap *ps)
+static void	calc_costs_rr(t_pushswap *ps)
 {
 	size_t		i;
 	long long	total_cost;

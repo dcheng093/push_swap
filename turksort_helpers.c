@@ -12,7 +12,7 @@
 
 #include "push_swap.h"
 
-void r_to_top(t_pushswap *ps, const size_t i)
+void	r_to_top(t_pushswap *ps, const size_t i)
 {
 	int		a;
 	int		b;
