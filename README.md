@@ -1,4 +1,5 @@
 *This project has been created as part of the 42 curriculum by dcheng.*
+<img width="2780" height="806" alt="image" src="https://github.com/user-attachments/assets/6984b9da-3ad1-428b-bc33-e083e3014f95" />
 
 ---
 
