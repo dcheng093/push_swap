@@ -52,7 +52,8 @@ Run the program with the checker from the resources of the Push_swap project pag
 ```bash
 ./push_swap 3 2 1 | ./checker_linux 3 2 1
 ```
-
+<img width="1422" height="258" alt="image" src="https://github.com/user-attachments/assets/e3a1afb3-24cc-4a3d-904e-75d6097db95d" />
+<img width="1422" height="258" alt="image" src="https://github.com/user-attachments/assets/f7cf93a3-105d-446b-9fcc-cb89bf001cc8" />
 ---
 
 ## Allowed Operations
